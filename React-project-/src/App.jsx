@@ -71,8 +71,8 @@ const App = () => {
               <hr className='w-[400px] mt-[20px] mb-[20px]'/>
               <div>
               <div className="flex">
-                <img src="dunya.jpg" alt="" className='w-[40px]'/>
-                <h3 className="font-semibold text-lg text-teal-300">Real Time Location</h3>
+                <img src="unvan.png" alt="" className='w-[45px] h-[50px]'/>
+                <h3 className="font-semibold text-lg text-teal-300 pt-[10px]">Real Time Location</h3>
                 </div>
                 <p className="text-gray-500">Asperiores nemo possimus nesciunt quam mollitia.</p>
               </div> 
